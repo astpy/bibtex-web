@@ -1,0 +1,10 @@
+@article{LI2023100845,
+title = {An AV-MV negotiation method based on synchronous prompt information on a multi-vehicle bottleneck road},
+journal = {Transportation Research Interdisciplinary Perspectives},
+volume = {20},
+pages = {100845},
+year = {2023},
+issn = {2590-1982},
+doi = {https://doi.org/10.1016/j.trip.2023.100845},
+author = {Yang Li and Hao Cheng and Zhe Zeng and Barbara Deml and Hailong Liu},
+}
